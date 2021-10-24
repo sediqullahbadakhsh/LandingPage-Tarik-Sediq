@@ -1,0 +1,13 @@
+#image{
+    position: relative;
+    max-width: 100%;
+    margin: 0px auto;
+    display: block;
+    height: auto;
+}
+p, h1{
+    text-align: center;
+}
+#tribute-info{
+    margin-left: 200px; 
+}
